@@ -14,5 +14,3 @@ It demonstrates the full pipeline: **dataset preparation, model training, evalua
 - Sample predictions with visualization  
 
 ---
-
-## 📂 Project Structure
